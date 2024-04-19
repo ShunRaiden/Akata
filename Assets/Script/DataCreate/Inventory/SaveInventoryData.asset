@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c7cda18c974da441a52adf0b16fe341, type: 3}
+  m_Name: SaveInventoryData
+  m_EditorClassIdentifier: 
+  sInv:
+    itemInv:
+    - itemData: {fileID: 11400000, guid: 2ec6251fbcf90a443984d30422ef2038, type: 2}
+      itemCount: 10
+    - itemData: {fileID: 11400000, guid: 333ce1a0d6eb7b443bdec8906ad55b83, type: 2}
+      itemCount: 10
+    - itemData: {fileID: 11400000, guid: 3a07a4f12506ce64cb8bda4e7e5b1bef, type: 2}
+      itemCount: 10
+    - itemData: {fileID: 11400000, guid: b231ac17aa593514382460f77d64c366, type: 2}
+      itemCount: 1
+    - itemData: {fileID: 11400000, guid: 9bef5ee228bc4b543b38ac33923af713, type: 2}
+      itemCount: 2
+    - itemData: {fileID: 11400000, guid: 2290d228b46f58d42b8f91d14a67fcf3, type: 2}
+      itemCount: 1
+  inv:
+    itemInv:
+    - itemData: {fileID: 11400000, guid: 2ec6251fbcf90a443984d30422ef2038, type: 2}
+      itemCount: 10
+    - itemData: {fileID: 11400000, guid: 333ce1a0d6eb7b443bdec8906ad55b83, type: 2}
+      itemCount: 10
+    - itemData: {fileID: 11400000, guid: 3a07a4f12506ce64cb8bda4e7e5b1bef, type: 2}
+      itemCount: 10
+    - itemData: {fileID: 11400000, guid: b231ac17aa593514382460f77d64c366, type: 2}
+      itemCount: 1
+    - itemData: {fileID: 11400000, guid: 9bef5ee228bc4b543b38ac33923af713, type: 2}
+      itemCount: 2
+    - itemData: {fileID: 11400000, guid: 2290d228b46f58d42b8f91d14a67fcf3, type: 2}
+      itemCount: 1
+  MaxSize: 12
+  stringData: '{"itemInv":[{"itemData":{"instanceID":33864},"itemCount":10},{"itemData":{"instanceID":33406},"itemCount":10},{"itemData":{"instanceID":33356},"itemCount":10},{"itemData":{"instanceID":33744},"itemCount":1},{"itemData":{"instanceID":33926},"itemCount":2},{"itemData":{"instanceID":33340},"itemCount":1}]}'
